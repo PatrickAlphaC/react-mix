@@ -1,7 +1,7 @@
 # Brownie React Mix
 
 This mix comes with everything you need to start using [React](https://reactjs.org/) with a Brownie project.
-The react template is a very basic, minimum viable "functional component" style static-page that allows the user to 
+The [react](https://www.interviewbit.com/react-interview-questions/) template is a very basic, minimum viable "functional component" style static-page that allows the user to 
 execute two contract functions - a public view "getter" and a "setter" that updates the state of the blockchain.
 
 ## Installation
